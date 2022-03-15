@@ -46,4 +46,3 @@ Contributions, issues, and feature requests are welcome!
 This project is [MIT](./MIT.md) licensed.)
 - Twitter: [@twitterhandle]()
 - LinkedIn: [LinkedIn]()
-
